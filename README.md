@@ -1,1 +1,5 @@
-# fe_air_wiz
+#Setup
+npm install
+
+#Run
+webpack-dev-server --progress --colors --port 8000
